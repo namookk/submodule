@@ -1,0 +1,3 @@
+[submodule "devoooops-api"]
+	path = devoooops-api
+	url = https://github.com/namookk/devoooops-api.git
